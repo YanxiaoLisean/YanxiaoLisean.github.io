@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering Mechanics, Dalian University of Technology, 2015
+* M.S. in Engineering Mechanics, Harbin Institute of Technology, 2017
+* Ph.D in Civil Engineering, Missouri University of Science and Technology, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2022-Sep. 2023: Research Scientist
+  * New York Univeristy
+  * Supervisor: Professor Elisa Riedo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep. 2022-present: Research Associate
+  * Leidos
   
 Skills
 ======
